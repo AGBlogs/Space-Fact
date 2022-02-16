@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/space-fact/static/css/main.ffa1c65b.css",
+    "main.js": "/space-fact/static/js/main.7184164c.js",
+    "static/js/787.f587e8d5.chunk.js": "/space-fact/static/js/787.f587e8d5.chunk.js",
+    "static/media/SunPhoto.jpg": "/space-fact/static/media/SunPhoto.fbada72a7bc661dfab8a.jpg",
+    "static/media/LightPhoto.jpg": "/space-fact/static/media/LightPhoto.5b4e587bd7ae2e60b26b.jpg",
+    "static/media/TimeTr.jpg": "/space-fact/static/media/TimeTr.59aa6c8f63a9ac20dafa.jpg",
+    "static/media/Photo(3)(4).jpg": "/space-fact/static/media/Photo(3)(4).157fc808e6ee2fe8ebc5.jpg",
+    "static/media/Structure.jpg": "/space-fact/static/media/Structure.b3341122d55025ac4138.jpg",
+    "static/media/Gravity.jpg": "/space-fact/static/media/Gravity.6f3d65e239fac53f92a8.jpg",
+    "static/media/Logo1.png": "/space-fact/static/media/Logo1.f610884a97366eb3e766.png",
+    "static/media/TimeTravel.jpg": "/space-fact/static/media/TimeTravel.3451fb98c40006943b36.jpg",
+    "index.html": "/space-fact/index.html",
+    "main.ffa1c65b.css.map": "/space-fact/static/css/main.ffa1c65b.css.map",
+    "main.7184164c.js.map": "/space-fact/static/js/main.7184164c.js.map",
+    "787.f587e8d5.chunk.js.map": "/space-fact/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffa1c65b.css",
+    "static/js/main.7184164c.js"
+  ]
+}
