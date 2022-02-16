@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+
+
+.para {
+   
+}
+
+.title {
+    font-size: 30px;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    color: rgb(51, 211, 255);
+    font-family: 'Quintessential', cursive;
+}
+
+.content {
+    font-size: 24px;
+    word-spacing: 2px;
+    font-family: 'Roboto Mono', monospace;
+    color: #fd7702;
+}
+
+@media screen and (min-width: 768px) {
+    
+}
+
+.image {
+    padding-top: 2.5%;
+}
+
+.highlight {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.TimeTravel {
+    width: 100%;
+    height: 50%;;
+}
+
+.LightSpeed {
+    width: 100%;
+    height: 40%;
+   
+}
+
+
+.Sun {
+    width: 100%;
+    height: 50%;;
+}
+
+.Structure {
+    width: 100%;
+    height: 50%;;
+}
+
+.Gravity {
+    width: 100%;
+    height: 50%;;
+}
